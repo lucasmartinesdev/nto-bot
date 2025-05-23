@@ -1,0 +1,13 @@
+{
+  "checkInterval": "*/1 * * * *",
+  "monitoredPlayers": [
+    "Pica In Lure",
+    "This Is Evolved",
+    "Shazam  Mx",
+    "Satoru     Gojo",
+    "Gam"
+  ],
+  "DISCORD_TOKEN": "MTM3NTIyMjMzNjc4OTI4NjkzMg.GyHJfv.R1W1mb1G1ihP1VgUVspWuAXCgA6VE9SXiuCF3A",
+  "DISCORD_CHANNEL_ID": "1375244809647685734",
+  "DISCORD_CHANNEL_COMMAND_ID": "865397299119390741"
+}
